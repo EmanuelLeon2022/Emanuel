@@ -3,7 +3,7 @@ function Me() {
   return (
     <div>
       <h1>Emanuel Leon-Vargas</h1>
-      <img src='https://media.licdn.com/dms/image/D4D03AQF_tfYnGewAXw/profile-displayphoto-shrink_400_400/0/1697306644151?e=1705536000&v=beta&t=6pmGSQCWfDwBtMHsmNm7UHyDLPvtG-XMmx-HEKm7PTs'></img>
+      <img src='https://lh3.googleusercontent.com/pw/ADCreHeR0Xas4pgvdVqA6NYHExFAKvaSS6Pa-xRRMpxF-V3psD9oGX9jRX0hZEvoM_Td9y5dSotizUfJtzjDowJBqAMP-4sIj0aXPbSL8ltNEVnahtrfFbmIIvhQLbrGGq2OMi-4s3k-WpCwwNGcRVe6g6rPz_uesD0YPaW17PEUGBMhhdxxflpCJICFm_CdR1Pk4qjIDUMpC2WCkfd5XfIHPVwVrNqtUDsz9f6CV-UUOMvN68xL1ZG01csE4Yh6nR51O7GGZ7Dw3SNikxi2ftnHPW9JsmVilNrMVWubzY6Uv0w_5QPFHixAd3XX1pOg-lvfCycdgYpTPkKKCpNr1f7I8sXsu1LAXVNjrCAKCqN2ngXGoc_TN3obzCJ9c3DKtIpemBiyxoc8v4ezh3yoy57bwvRKBCaAysgY29GiRtfZJaRFx3C7f4IBjwhX7KMrtqhKpxAaxd2t07WrAbGofUdUuqLSOFmJNKry11QdTRo4QnrBiHwqqkgW9ObQTqa5DggdN1udN7LVqa3sMvDPAmpVOG5EBTH__HRkCVmNFk46pp-JAEh6u-F0mVwcTNySfZQ9QrXxmz9Eim_yVixAKM4xynrxs15miAe6YSjpPIDor0aA8qktzBMY8AotYpqcyFR8t-YEdgx-tCoN4iktDXFDOmm2IyJATUIvt0pCIVjtw8TmKUi7rjG0z5SBeFJ9-v9yKD-EzWureHR5HeheQoL0TQYLbIgdCj3I3jQ0FaWFDsGP5neWP0PnhV4Vyk6bF0R-b-_spD4NrWkFwRmYKZsosIayKZJbyM0CyZQSaj23p_Xt9_T8mP6gwHS_R0eDNSsD3q1go7rw5ItJthQXkohMI413F27oeFUzer1ItHZDOAqkBFWaJL5SX4tn8suLid0XBKa8eP8xOBNvucfh=w524-h706-s-no-gm?authuser=0'></img>
       <Story/>
     </div>
   )
