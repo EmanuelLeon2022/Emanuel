@@ -1,5 +1,4 @@
-import './App.css';
-import layout from './Components/layout';
+import './App.css'
 import Me from './Components/Me';
 import Skill1 from './Components/Skill1';
 import Skill2 from './Components/Skill2';
